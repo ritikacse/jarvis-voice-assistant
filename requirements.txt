@@ -1,6 +1,5 @@
 SpeechRecognition
 pyttsx3
-PyAudio
 PyAutoGUI
 openai
 python-dotenv
